@@ -1,9 +1,9 @@
-# Recent-Calls
-
 To run the test folder, run the command
-npm start
+npm install and then
+"npm start"
 
 To run the server folder, run the command
-npm run dev
+npm install and then
+"npm run dev"
 
 Run both at the same time
